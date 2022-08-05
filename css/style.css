@@ -1,0 +1,32 @@
+:root {
+    --bs-un: #E142DC;
+    --bs-deux: #2CBECC;
+    --bs-trois: #6751E7;
+    --bs-quatre: #F1C50E;
+    --bs-fond: rgb(240, 240, 240);
+    }
+
+
+body {
+    background-color: var(--bs-fond);
+  }
+
+.card-img-top{
+    width: 90px;
+    height: auto;
+  }
+
+.un{
+    background-color: var(--bs-un);
+}
+.deux{
+    background-color: var(--bs-deux);
+}
+
+.trois{
+    background-color: var(--bs-trois);
+}
+
+.quatre{
+    background-color: var(--bs-quatre);
+}
